@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">itAuditor</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--Login Activity -->
+    <string name="mobile">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="login">Login</string>
+
+    <string name="otp">Send OTP</string>
+    <string name="newuser">New User?   </string>
+    <string name="submitotp">Submit OTP</string>
+
+
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="title_activity_forget__password">Forget Password</string>
+    <string name="title_activity_continue_registration">About US</string>
+    <string name="name">Name</string>
+    <string name="DOB">DOB</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="del_address">Delivery Address</string>
+    <string name="username">Username</string>
+
+    <string name="pincode">Pincode</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="haveacc">Already Have Account?   </string>
+    <string name="closeApp">Do you Want To Close The App?</string>
+    <string name="alert_title">Confirmation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="deliverto">DELEVER TO</string>
+
+
+    <!--    Todo: BottomList-->
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notifications</string>
+    <string name="favorite">Favorite</string>
+
+
+</resources>
